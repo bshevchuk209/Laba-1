@@ -3,11 +3,11 @@ high = 203.5
 weight = 85
 country = Ukraine
 name = Volodya
-student_wasn't_eating_today = false
-he_was_eating_a_5.5lb_kebab = true
+student_wasnt_eating_today = False
+he_was_eating_a_5lb_kebab = True
 in_our_college_we_have_guys_who_weights = {45 , 50 , 55 , 65 , 80 , 100 , 150}
 dik = {"name": "Volodya", "age": "17", "high": "203.5", "weight": "85"}
-I_was_knowing ( 21, 32 , 31, 42 ) groups_ICT
+i_was_knowing ( 21, 32 , 31, 42 ) groups_ICT
 
 print(name,type(name))
 print(age,type(age))
